@@ -1,7 +1,7 @@
 
         div.ques{
             font-weight: bold;
-            /* padding-top: 15px; */
+            padding-top: 15px;
         }
         div.opt{
             padding-top: 20px;
@@ -12,6 +12,6 @@
             padding: 15px; 
             border-left: 8px solid green;
             background-color: #f8fffe"";
-            font-weight: bold;
+/*             font-weight: bold; */
         }
-    
+/* Your CSS Code here. */
